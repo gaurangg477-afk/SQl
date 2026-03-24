@@ -111,8 +111,6 @@ If you found this repository helpful:
 🔗 Share it with friends  
 💬 Provide feedback or suggestions  
 
----
-
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
